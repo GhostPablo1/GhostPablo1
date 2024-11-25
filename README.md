@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">Hi 👋, I'm Pablo Saldarriaga</h1>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
+<img align="left" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+
 
 ```
 I-am-vishalmaurya@github
